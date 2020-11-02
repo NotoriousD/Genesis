@@ -1,0 +1,7 @@
+.residents__list {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 20px;
+    text-align: center;
+    padding-top: 40px;
+}

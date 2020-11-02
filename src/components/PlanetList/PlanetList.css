@@ -1,0 +1,14 @@
+.planet__list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+
+.planet__list a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.load-more {
+    padding-top: 30px;
+}
